@@ -1,3 +1,3 @@
 # Calculator
-Calculator project with simple TypeScript And Tailwindcss
+Project Calculator with simple TypeScript And Tailwindcss
  
